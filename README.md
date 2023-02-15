@@ -8,7 +8,7 @@ Hey, I'm from México
 
 🔭 I’m currently studying on Laboratoria (bootcamp)
 
-🌱 I’m currently learning node.js
+🌱 I’m currently learning Angular
 
 📫 How to reach me in email onxochitl@gmail.com or [LinkedIn](https://www.linkedin.com/in/onxochitl/)
 
