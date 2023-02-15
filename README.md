@@ -1,6 +1,6 @@
 # Hi 👋, I'm Xochitl
 
-<a href="https://https://github.com/OnXochitl" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/71983357/215934061-5b31ab1f-0d60-47ed-9461-7482b0d9716a.png" alt="me" align="right" height="300"/> </a>
+<a href="https://https://github.com/OnXochitl" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/71983357/218901917-b66dd91e-9eb6-465e-a20b-2c476f199c05.png" alt="me" align="right" height="300"/> </a>
 
 A passionate frontend developer.
 
